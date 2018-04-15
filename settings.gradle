@@ -1,0 +1,4 @@
+rootProject.name = 'nghia-root-multiproject'
+
+include 'structural/decorator'
+include 'behavior/template_method'
