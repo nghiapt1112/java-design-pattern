@@ -1,8 +1,9 @@
 rootProject.name = 'nghia-root-multiproject'
 
-include 'structural/decorator'
-include 'behavior/template_method'
-include 'behavior/chain_of_responsibilities'
-include 'behavior/observer'
-include 'behavior/strategy'
+include 'structural/decorator' // compose, abstract with decorate behavior
+
+include 'behavior/template_method' // email template.
+include 'behavior/chain_of_responsibilities' // multiple actions connect like a chain (linked_list actions)
+include 'behavior/observer' // call back, notify.
+include 'behavior/strategy' // too-easy don't understand
 include 'behavior/command'

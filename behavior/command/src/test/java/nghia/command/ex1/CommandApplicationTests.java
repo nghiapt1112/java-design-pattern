@@ -1,4 +1,4 @@
-package nghia.command;
+package nghia.command.ex1;
 
 import nghia.command.application.ex1.*;
 import org.junit.Test;
