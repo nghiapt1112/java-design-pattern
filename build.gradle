@@ -40,10 +40,3 @@ subprojects {
     version = '0.0.1'
 
 }
-
-project(':structural/decorator') {
-    dependencies {
-//        compile('org.springframework.boot:spring-boot-starter-decorator')
-    }
-
-}

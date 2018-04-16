@@ -2,3 +2,7 @@ rootProject.name = 'nghia-root-multiproject'
 
 include 'structural/decorator'
 include 'behavior/template_method'
+include 'behavior/chain_of_responsibilities'
+include 'behavior/observer'
+include 'behavior/strategy'
+include 'behavior/command'
